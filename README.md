@@ -24,4 +24,4 @@ Each transaction updates the records in the file.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Banking-System.git
+   git clone https://github.com/aradhya0507/Banking-System-in-C-.git
