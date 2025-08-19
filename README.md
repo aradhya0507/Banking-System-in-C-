@@ -41,15 +41,9 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** concepts such a
 	```bash
 	./banking
 
-
-
 ⸻
+
 
 🛠️ Tech Stack <br>
 	•	Language: C++<br>
 	•	Concepts Used: OOP (Classes, Encapsulation, Polymorphism), File Handling
-
-
-👉 I fixed your repo link (`Banking-System-in-Cpp` instead of `Banking-System-in-C-.git`) and made formatting consistent.  
-
-Would you like me to also create a **sample `LICENSE` file (MIT)** so you can directly add it to your repo?
