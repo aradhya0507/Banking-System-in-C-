@@ -1,5 +1,3 @@
-Here’s a corrected and polished version of your README:
-
 # 🏦 Banking System in C++
 
 This is a simple **console-based Banking System** project written in **C++**.  
@@ -28,26 +26,27 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** concepts such a
    ```bash
    git clone https://github.com/aradhya0507/Banking-System-in-Cpp.git
 
-	2.	Navigate to the project directory:
 
-cd Banking-System-in-Cpp
-
-
-	3.	Compile the code:
-
-g++ banking.cpp -o banking
+2.	Navigate to the project directory:
+	```bash
+	cd Banking-System-in-Cpp
 
 
-	4.	Run the program:
+3.	Compile the code:
+	```bash
+	g++ banking.cpp -o banking
 
-./banking
+
+4.	Run the program:
+	```bash
+	./banking
 
 
 
 ⸻
 
-🛠️ Tech Stack
-	•	Language: C++
+🛠️ Tech Stack <br>
+	•	Language: C++<br>
 	•	Concepts Used: OOP (Classes, Encapsulation, Polymorphism), File Handling
 
 
